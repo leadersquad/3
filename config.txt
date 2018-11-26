@@ -1,0 +1,6 @@
+token=NTE2NjE2MzAxNzk2MzkyOTcw.Dt2P_A.6KOY5r1U0E_BNKTRP_laqVg-Uzk
+owner=489238672630349824
+prefix= d
+game= Type dhelp
+stayinchannel=true
+songinstatus=true
